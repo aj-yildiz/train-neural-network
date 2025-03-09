@@ -25,3 +25,6 @@ This Streamlit application trains and evaluates a neural network model to classi
 ```sh
 git clone https://github.com/aj-yildiz/train-neural-network.git
 cd train-neural-network
+
+## How to Run
+ streamlit run app.py 
