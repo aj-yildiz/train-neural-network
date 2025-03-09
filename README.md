@@ -23,5 +23,5 @@ This Streamlit application trains and evaluates a neural network model to classi
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/aj-yildiz/handwritten-digits-classifier.git
+git clone https://github.com/aj-yildiz/train-neural-network.git
 cd train-neural-network
